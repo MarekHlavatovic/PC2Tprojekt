@@ -1,3 +1,3 @@
-Projekt-PC2t
+Projekt-PC2T
 Autori: Peter Ďuroň
        :Marek Hlavatovič
