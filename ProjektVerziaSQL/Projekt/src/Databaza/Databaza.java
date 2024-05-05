@@ -22,7 +22,7 @@ public class Databaza {
                         Class.forName("org.sqlite.JDBC");
                         conn = DriverManager.getConnection("jdbc:sqlite:" + filePath);
                     } catch (SQLException | ClassNotFoundException e) {
-                        e.printStackTrace();  // It's crucial to see this output to know what failed
+                        e.printStackTrace();  
                     }
                 }
             }
